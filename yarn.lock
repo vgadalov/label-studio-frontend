@@ -1715,8 +1715,9 @@
   resolved "https://registry.yarnpkg.com/@types/linkify-it/-/linkify-it-3.0.2.tgz#fd2cd2edbaa7eaac7e7f3c1748b52a19143846c9"
 
 "@types/lodash.ismatch@^4.4.6":
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/@types/lodash.ismatch/-/lodash.ismatch-4.4.6.tgz#7ef39e51e56e562e579b1416c4edbb57295b239c"
+  version "4.4.7"
+  resolved "https://registry.yarnpkg.com/@types/lodash.ismatch/-/lodash.ismatch-4.4.7.tgz#c8c08fc813f6e90e201acef5c12f030d8a3debdb"
+  integrity sha512-ybydj07Fw8332Q4+LQSiSkxQCPkAZTt6YQHXyAISfa/HfFq8yWhhDF8lVr8s09eyG6W++iPRCkXgT5tXMA3e9g==
   dependencies:
     "@types/lodash" "*"
 
